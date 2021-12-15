@@ -10,7 +10,7 @@ namespace console_programlama
             string name = Console.ReadLine();
             Console.WriteLine("Soyadınızı Girin :");
             string surname = Console.ReadLine();
-            Console.WriteLine("Merhaba " + name + " " + surname);
+            Console.WriteLine("Merhaba " + name + "  " + surname);
 
             
         }
